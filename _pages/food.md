@@ -67,8 +67,7 @@ If you have any recommendations for places to try, please feel free to shoot me 
 
   </div>
   <div class="col-sm-5" markdown="1">
-
-{% include figure.liquid loading="eager" path="assets/img/IMG_6207.jpg" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/IMG_6207.JPG" class="img-fluid rounded z-depth-1" %}
 
 
 ##### South Asian Food
