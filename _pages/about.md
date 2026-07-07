@@ -29,4 +29,4 @@ The dissertation project examines the role of conscription and economic uncertai
 
 My work leverages a wide range of research designs and data sources, including novel survey experiments, interviews and process tracing, as well as causal inference methods for large-n panel data. I am also fluent in Mandarin Chinese and Korean and have extensive fieldwork experience in South Korea.
 
-In my free time, I love to go on hikes with my partner, support my hometown hockey team, the San Jose Sharks, and hunt for new restaurants and recipes to try.
+In my free time, I love to go on hikes with my partner, support my hometown hockey team, the San Jose Sharks, and hunt for new restaurants and recipes to try!
