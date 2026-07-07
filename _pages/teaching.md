@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching
+title: teaching
 description: 
 nav: true
 nav_order: 3
@@ -12,16 +12,18 @@ calendar: false
   <div class="col-sm-8" markdown="1">
 
 ### Teaching Assistant & Discussion Leader
-**IR212**: Historical Approaches to International Relations (Spring and Fall 2025) \
+**IR212**: Historical Approaches to International Relations (Spring and Fall 2025) <br>
 **IR210**: Introduction to International Relations (Spring 2026)
 
 ### Grader
-**IR362**: International Relations of the Middle East (Spring 2024) \
+**IR362**: International Relations of the Middle East (Spring 2024) <br>
 **POSC325**: State Politics (Spring 2024)
 
-### Other Educational Experiences
+### Other Teaching Experiences
 
-Prior to joining the world of academia, I was a middle school English and Social Studies teacher at a Title I school in East Palo Alto through Teach for America. I currently hold an M.Ed as well as a California Preliminary Teaching Credential in Multiple Subjects.
+Prior to joining the world of academia, I was a middle school English and Social Studies teacher at a Title I school in East Palo Alto through Teach for America. I currently hold an M.Ed as well as a California Preliminary Teaching Credential in Multiple Subjects. As a result of this experience, I am passionate about educational equity, creating welcoming learning environments for diverse student populations, and fostering critical thinking skills through education. <br> 
+
+A compilation of selected teaching evaluations can be found [here](assets/pdf/TeachingEvaluationsCompilation.pdf). 
 
   </div>
   <div class="col-sm-4" markdown="1">

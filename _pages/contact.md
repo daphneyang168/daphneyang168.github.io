@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: Contact
+title: contact
 description: 
 nav: true
 nav_order: 4
