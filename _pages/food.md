@@ -13,7 +13,7 @@ As mentioned, one of my favorite things to do in my free time is finding new pla
 If you have any recommendations for places to try, please feel free to shoot me an email! :)
 
 <div class="row">
-  <div class="col-sm-8" markdown="1">
+  <div class="col-sm-7" markdown="1">
 
 ##### Chinese & Taiwanese Food
 1. Good Alley (Rosemead)
@@ -44,11 +44,6 @@ If you have any recommendations for places to try, please feel free to shoot me 
 4. Taqueria La Cazuela (East Palo Alto)
 5. Taco Nazo (El Monte)
 
-  </div>
-  <div class="col-sm-4" markdown="1">
-
-{% include figure.liquid loading="eager" path="assets/img/IMG_6207.jpg" class="img-fluid rounded z-depth-1" %}
-
 ##### Filipino Food
 1. Almuchow Atbp. (San Gabriel)
 2. Kalesa (Milpitas)
@@ -70,6 +65,12 @@ If you have any recommendations for places to try, please feel free to shoot me 
 4. Falafel Stop (Sunnyvale)
 5. Sidewalk Grill (Los Angeles)
 
+  </div>
+  <div class="col-sm-5" markdown="1">
+
+{% include figure.liquid loading="eager" path="assets/img/IMG_6207.jpg" class="img-fluid rounded z-depth-1" %}
+
+
 ##### South Asian Food
 1. Udupi Palace (Artesia)
 2. Mom's Biryani (Sunnyvale)
@@ -83,7 +84,7 @@ If you have any recommendations for places to try, please feel free to shoot me 
 4. Thai by Trio (Los Angeles)
 5. Pink Pepper (Los Angeles)
 
-##### Other cuisines that I need to try more of to make a list
+##### Other cuisines that I need to try more of:
 1. Shucos (Guatemalan, Los Angeles)
 2. Selam Restaurant (Ethiopian, San Jose)
 3. Borneo Eatery (Indonesian, Alhambra)
