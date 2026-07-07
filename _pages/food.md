@@ -12,8 +12,9 @@ As mentioned, one of my favorite things to do in my free time is finding new pla
 
 If you have any recommendations for places to try, please feel free to shoot me an email! :)
 
-<div class="row">
-  <div class="col-sm-7" markdown="1">
+<div class="grid grid-cols-12 gap-6">
+  <div class="col-span-12 sm:col-span-7" markdown="1">
+
 
 ##### Chinese & Taiwanese Food
 1. Good Alley (Rosemead)
@@ -66,8 +67,8 @@ If you have any recommendations for places to try, please feel free to shoot me 
 5. Sidewalk Grill (Los Angeles)
 
   </div>
-  <div class="col-sm-5" markdown="1">
-{% include figure.liquid loading="eager" path="assets/img/IMG_6207.JPG" class="img-fluid rounded z-depth-1" %}
+   <div class="col-span-12 sm:col-span-5" markdown="1">
+{% include figure.liquid loading="eager" path="assets/img/IMG_6207.JPG" class="rounded" %}
 
 
 ##### South Asian Food
