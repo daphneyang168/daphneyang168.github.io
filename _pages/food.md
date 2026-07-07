@@ -12,6 +12,9 @@ As mentioned, one of my favorite things to do in my free time is finding new pla
 
 If you have any recommendations for places to try, please feel free to shoot me an email! :)
 
+<div class="row">
+  <div class="col-sm-8" markdown="1">
+
 #### Chinese & Taiwanese Food
 1. Good Alley (Rosemead)
 2. QQ Noodle (Cupertino)
@@ -82,3 +85,16 @@ If you have any recommendations for places to try, please feel free to shoot me 
 4. Phnom Penh Noodle Shack (Cambodian, Long Beach)
 5. Simpang Asia (Indonesian, Los Angeles)
 6. Back A Yard (Caribbean, East Palo Alto)
+
+
+#### Boba and Desserts
+1. Hey Tea
+2. TP Tea
+3. 626 Ice Cream
+4. Bacio di Latte
+
+  </div>
+  <div class="col-sm-4" markdown="1">
+{% include figure.liquid loading="eager" path="assets/img/IMG_7198.jpg" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
