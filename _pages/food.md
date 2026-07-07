@@ -13,7 +13,7 @@ As mentioned, one of my favorite things to do in my free time is finding new pla
 If you have any recommendations for places to try, please feel free to shoot me an email! :)
 
 <div class="row">
-  <div class="col-sm-6" markdown="1">
+  <div class="col-sm-8" markdown="1">
 
 ##### Chinese & Taiwanese Food
 1. Good Alley (Rosemead)
@@ -45,7 +45,7 @@ If you have any recommendations for places to try, please feel free to shoot me 
 5. Taco Nazo (El Monte)
 
   </div>
-  <div class="col-sm-6" markdown="1">
+  <div class="col-sm-4" markdown="1">
 
 {% include figure.liquid loading="eager" path="assets/img/IMG_6207.jpg" class="img-fluid rounded z-depth-1" %}
 
