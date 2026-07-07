@@ -826,7 +826,7 @@ You can customize the layout and user interface in [\_config.yml](../_config.yml
 
 ```yaml
 back_to_top: true
-footer_fixed: true
+footer_fixed: false
 max_width: 930px
 navbar_fixed: true
 ```
