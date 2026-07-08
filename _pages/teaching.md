@@ -28,6 +28,6 @@ A compilation of selected teaching evaluations from my time as a TA at USC can b
   </div>
   <div class="col-sm-4" markdown="1">
 {% include figure.liquid loading="eager" path="assets/img/IMG_7198.jpg" class="img-fluid rounded z-depth-1" %}
-<p class="caption">A photo of the art my 2021-2022 7th grade class put together. Each of the puzzle pieces was completed by a student in the class.</p>
+<p class="caption">A photo of the art my 2021-2022 7th grade homeroom put together. Each of the puzzle pieces was completed by a student in the class.</p>
   </div>
 </div>
