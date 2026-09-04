@@ -27,7 +27,7 @@ Sample syllabi can be found here:
 
 [Gender Politics in East Asia]({{ "assets/pdf/Sample Syllabus_Gender_and_Politics_East_Asia .pdf" | relative_url }})
 
-Introduction to Comparative Politics 
+[Introduction to Comparative Politics]({{ "assets/pdf/Sample Syllabus_Intro_to_CP_Course.pdf" | relative_url }})
 
 A compilation of selected teaching evaluations from my time as a TA at USC can be found [here]({{ "assets/pdf/TeachingEvaluationsCompilation.pdf" | relative_url }}). 
 
