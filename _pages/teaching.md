@@ -23,6 +23,12 @@ calendar: false
 
 Prior to joining the world of academia, I was a middle school English and Social Studies teacher at a Title I school in East Palo Alto through Teach for America. I currently hold an M.Ed as well as a California Preliminary Teaching Credential in Multiple Subjects. As a result of this experience, I am passionate about educational equity, creating welcoming learning environments for diverse student populations, and fostering critical thinking skills through education. <br> 
 
+Sample syllabi can be found here:
+
+[Gender Politics in East Asia]({{ "assets/pdf/Sample Syllabus_Gender_and_Politics_East_Asia .pdf" | relative_url }})
+
+Introduction to Comparative Politics 
+
 A compilation of selected teaching evaluations from my time as a TA at USC can be found [here]({{ "assets/pdf/TeachingEvaluationsCompilation.pdf" | relative_url }}). 
 
   </div>
