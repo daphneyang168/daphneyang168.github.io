@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /food/
-title: california food guide
+title: California Food Guide
 description:
 nav: true
 nav_order: 6
