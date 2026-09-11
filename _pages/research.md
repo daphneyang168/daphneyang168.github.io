@@ -16,9 +16,9 @@ The book manuscript addresses how a novel concept – gendered regimes – contr
 
  **Projects within this research agenda:**
 
-“How Military Conscription and Economic Insecurity Shape Anti-Feminist Politics in South Korea” (Working paper; Manuscript completed).
+1. “How Military Conscription and Economic Insecurity Shape Anti-Feminist Politics in South Korea” (Working paper; Manuscript completed).
 
-“The Causes of Taiwan's Recent Youth Voting Gap” (In data collection stage).
+2. “The Causes of Taiwan's Recent Youth Voting Gap” (In data collection stage).
 
 
 #### **Demographic Politics in East Asia**
@@ -26,21 +26,22 @@ While my book manuscript focuses on how young men form their anti-gender politic
 
 **Under Review:** 
 
-“What Explains East Asia’s Fertility Crisis? The Effect of Gender Norms and Attitudes on Birth Rate Decline in South Korea”**<u>Revise and resubmit</u>**, *Social Politics*.
+1. “What Explains East Asia’s Fertility Crisis? The Effect of Gender Norms and Attitudes on Birth Rate Decline in South Korea." **<u>Revise and resubmit</u>**, *Social Politics*.
 
 **Current Projects:** 
-“How and Why Marriage Attitudes Differ across Gender and Political Ideology in South Korea”
+
+2. “How and Why Marriage Attitudes Differ across Gender and Political Ideology in South Korea”
 (with Christian Dyogi Phillips and Jeong Hyun Kim; In data analysis stage).
 
-“How Reddit Radicalizes: A Network Analysis of Incel Culture Cultivation on Social Media” (with Lisa Basil; Working paper).
+3. “How Reddit Radicalizes: A Network Analysis of Incel Culture Cultivation on Social Media” (with Lisa Basil; Working paper).
 
-#### ** The Effects of Sectoral Heterogeneity on Gender Politics and East Asian Development** 
+#### **The Effects of Sectoral Heterogeneity on Gender Politics and East Asian Development** 
  Another crucial part of my research agenda is analyzing how industry, or sector-level factors contribute to gender and political economy outcomes. I work with survey data and employ process-tracing methods to understand how historical developmental decisions in East Asia contribute to current economic and gender issues.
 
 **Under Review:** 
 
-“The Need for De-securitization: Analyzing Taiwan’s Semiconductor Industry Development” **<u>Forthcoming</u>**, *Cambridge University Press*, with Saori N. Katada.
+1. “The Need for De-securitization: Analyzing Taiwan’s Semiconductor Industry Development.” **<u>Forthcoming</u>**, *Cambridge University Press*, with Saori N. Katada.
 
 **Current Projects:** 
 
-“Sectoral Dynamics in Gender Attitude Formation: Evidence from Taiwan” (with Roselyn Hsueh; In data collection stage).
+2. “Sectoral Dynamics in Gender Attitude Formation: Evidence from Taiwan” (with Roselyn Hsueh; In data collection stage).
