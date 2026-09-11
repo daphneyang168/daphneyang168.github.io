@@ -4,7 +4,7 @@ permalink: /food/
 title: california food guide
 description:
 nav: true
-nav_order: 5
+nav_order: 6
 calendar: false
 ---
 
