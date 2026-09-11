@@ -26,7 +26,7 @@ While my book manuscript focuses on how young men form their anti-gender politic
 
 **Under Review:** 
 
-“What Explains East Asia’s Fertility Crisis? The Effect of Gender Norms and Attitudes on Birth Rate Decline in South Korea” <u>**Revise and resubmit**</u>, *Social Politics*.
+“What Explains East Asia’s Fertility Crisis? The Effect of Gender Norms and Attitudes on Birth Rate Decline in South Korea”**<u>Revise and resubmit</u>**, *Social Politics*.
 
 **Current Projects:** 
 “How and Why Marriage Attitudes Differ across Gender and Political Ideology in South Korea”
@@ -39,7 +39,7 @@ While my book manuscript focuses on how young men form their anti-gender politic
 
 **Under Review:** 
 
-“The Need for De-securitization: Analyzing Taiwan’s Semiconductor Industry Development” <u>**Forthcoming**</u>, *Cambridge University Press*, with Saori N. Katada.
+“The Need for De-securitization: Analyzing Taiwan’s Semiconductor Industry Development” **<u>Forthcoming</u>**, *Cambridge University Press*, with Saori N. Katada.
 
 **Current Projects:** 
 
