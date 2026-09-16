@@ -11,6 +11,8 @@ nav_order: 3
 
 My research examines how individual and institutional-level factors influence gender politics and economic development outcomes. I am particularly interested in the factors that are contributing to the rise of populism and how this phenomenon influences gender politics differently for women and men. To answer these questions, I employ survey experiments, social network analysis, cross-national and longitudinal statistical analyses, as well as qualitative process tracing and interviews. You can find a complete list of my working projects below.
 
+<br>
+
 #### **Book Manuscript: The Impact of Gendered Regimes on Anti-Feminist Movements in East Asia**
 The book manuscript addresses how gendered systems contribute to unexpected political behavior among young men facing economic uncertainty. I examine how and why young men subscribe to anti-feminist rhetoric, which is a question motivated by the recent gendered polarization of young voters in developed economies.
 
